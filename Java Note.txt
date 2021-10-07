@@ -1,0 +1,2 @@
+1: Does Java support Multiple inheritance?
+Ans: Java doesn’t allow multiple inheritance. For more info ( https://beginnersbook.com/2013/05/java-multiple-inheritance/ )
